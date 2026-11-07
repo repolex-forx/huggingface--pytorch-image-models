@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/pytorch-image-models/commit/43b549bfe9d680bc94284cfd0b611152d18e97d7",
       "git:hexsha": "43b549bfe9d680bc94284cfd0b611152d18e97d7",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.0.31"
     },
     {

@@ -1,0 +1,7 @@
+[2026-11-07T23:17:29Z] === AST ITERATION 1 START | repo=huggingface/pytorch-image-models sha=43b549bf ===
+[2026-11-07T23:17:29Z] [iter=1] PHASE START: ast repo=huggingface/pytorch-image-models sha=43b549bf
+[2026-11-07T23:17:29Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T23:29:55Z] [iter=1] AST chunks built count=2 triples=7128849
+[2026-11-07T23:29:55Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/43b549bfe9d680bc94284cfd0b611152d18e97d7/.complete
+[2026-11-07T23:29:55Z] [iter=1] PHASE END: ast elapsed_s=746 elapsed_min=12.4
+[2026-11-07T23:29:55Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

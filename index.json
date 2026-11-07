@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "pytorch-image-models",
+  "versions": [
+    {
+      "commit": "43b549bfe9d680bc94284cfd0b611152d18e97d7",
+      "tag": "v1.0.31",
+      "parsed_at": "2026-11-07T23:32:46.670623+00:00"
+    }
+  ]
+}
